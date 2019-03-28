@@ -1,6 +1,6 @@
 # AM-album-art
 Finds an analytical form for the Artic Monkeys AM album cover using the leading terms from a fourier transform
-
+Solution: f(x) = Im( (918.4 + 370.7i) * exp(2 * pi * i * 0.0769 * x) + (1700.5 + 497.0i) * exp(2 * pi * i * 0.0635 * x) + (-3958.5 - 755.5j) * exp(2 * pi * i * 0.0702 * x) )
 
 ## Description
 Super quick and dirty little project to find an equation for the Artic Monkeys AM album art. My goal wasn't a perfect reconstruction, just to get something with a reasonably small number of terms that looks reasonably good.
