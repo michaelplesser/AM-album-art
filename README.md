@@ -30,7 +30,7 @@ python3 am.py
 ### The waveform extracted from am.png after being cleaned up
 ![The waveform extracted from am.png after being cleaned up](https://imgur.com/VDqfYmS.png)
 
-### Frequency spectrum from the fourtier transform
+### Frequency spectrum from the fourier transform
 ![Frequency spectrum from the fourtier transform](https://imgur.com/mOAqD7o.png)
 
 ### Real (red) and imaginary (blue) parts of the waveform from the three leading terms in the FT
